@@ -52,7 +52,7 @@ const Hero: React.FC = () => {
 
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <a 
-              href="https://wa.me/5521968996088?text=Olá!%20Gostaria%20de%20fazer%20uma%20simulação%20dos%20meus%20direitos%20trabalhistas%20agora."
+              href="https://w.app/lg6k74"
               target="_blank"
               rel="noopener noreferrer"
               className="group w-full sm:w-auto bg-green-500 hover:bg-green-600 text-white px-10 py-5 rounded-2xl text-xl font-bold flex items-center justify-center gap-3 transition-all shadow-[0_20px_50px_rgba(34,197,94,0.3)] hover:shadow-[0_20px_50px_rgba(34,197,94,0.5)] active:scale-95 hover:-translate-y-1"
@@ -61,7 +61,7 @@ const Hero: React.FC = () => {
               Tirar dúvida no WhatsApp
             </a>
             <a 
-              href="tel:+5521968996088"
+              href="tel:+5521966095786"
               className="w-full sm:w-auto bg-white/10 backdrop-blur-md hover:bg-white/20 text-white border-2 border-white/30 px-10 py-5 rounded-2xl text-xl font-bold flex items-center justify-center gap-3 transition-all active:scale-95 hover:-translate-y-1 shadow-2xl"
             >
               <PhoneCall className="w-7 h-7" />
