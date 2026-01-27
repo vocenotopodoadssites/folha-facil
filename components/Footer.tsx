@@ -36,13 +36,13 @@ const Footer: React.FC = () => {
                   <div className="bg-blue-50 p-2 rounded-lg">
                     <Phone className="w-4 h-4 text-blue-600" />
                   </div>
-                  <a href="tel:+5521968996088" className="hover:text-blue-600 font-medium">(21) 96899-6088</a>
+                  <a href="tel:+5521966095786" className="hover:text-blue-600 font-medium">(21)96609-5786</a>
                 </li>
                 <li className="flex items-center gap-3">
                   <div className="bg-green-50 p-2 rounded-lg">
                     <MessageCircle className="w-4 h-4 text-green-500" />
                   </div>
-                  <a href="https://wa.me/5521968996088?text=Olá!%20Gostaria%20de%20falar%20com%20um%20especialista%20sobre%20meus%20direitos." target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 font-medium">Falar no WhatsApp</a>
+                  <a href="https://w.app/lg6k74" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 font-medium">Falar no WhatsApp</a>
                 </li>
                 <li className="flex items-center gap-3">
                   <div className="bg-blue-50 p-2 rounded-lg">
