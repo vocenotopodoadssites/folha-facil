@@ -19,7 +19,7 @@ const CTASection: React.FC = () => {
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a 
-                href="https://wa.me/5521968996088?text=Olá!%20Vi%20o%20site%20e%20preciso%20de%20ajuda%20urgente%20com%20meus%20cálculos%20trabalhistas." 
+                href="https://w.app/lg6k74" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-xl text-lg font-bold flex items-center justify-center gap-3 transition-all shadow-xl hover:shadow-green-900/40 active:scale-95"
@@ -28,7 +28,7 @@ const CTASection: React.FC = () => {
                 Fale agora no WhatsApp
               </a>
               <a 
-                href="tel:+5521968996088" 
+                href="tel:+5521966095786" 
                 className="bg-white hover:bg-slate-100 text-slate-900 px-8 py-4 rounded-xl text-lg font-bold flex items-center justify-center gap-3 transition-all active:scale-95"
               >
                 <PhoneCall className="w-6 h-6" />
