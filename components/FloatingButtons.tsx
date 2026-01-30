@@ -13,7 +13,7 @@ const FloatingButtons: React.FC = () => {
     <>
       {/* WhatsApp Floating Button */}
       <a
-        href="https://w.app/lg6k74"
+        href="https://wa.me/5521966095786?text=Gostaria%20de%20fazer%20uma%20consulta"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 z-50 bg-green-500 text-white p-4 rounded-full shadow-2xl hover:bg-green-600 transition-all hover:scale-110 active:scale-95 animate-bounce-subtle"
@@ -30,7 +30,7 @@ const FloatingButtons: React.FC = () => {
       <div className="lg:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/95 backdrop-blur-md p-3 border-t border-slate-200 shadow-[0_-5px_15px_-3px_rgba(0,0,0,0.1)]">
         <div className="container mx-auto flex gap-3">
           <a
-            href="https://w.app/lg6k74"
+            href="https://wa.me/5521966095786?text=Gostaria%20de%20fazer%20uma%20consulta"
             target="_blank"
             rel="noopener noreferrer"
             className="flex-[1.5] bg-green-500 text-white py-3 rounded-xl font-bold flex items-center justify-center gap-2 text-sm shadow-md"
