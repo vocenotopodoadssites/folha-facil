@@ -19,7 +19,7 @@ const CTASection: React.FC = () => {
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a 
-                href="https://w.app/lg6k74" 
+                href="https://wa.me/5521966095786?text=Gostaria%20de%20fazer%20uma%20consulta" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-xl text-lg font-bold flex items-center justify-center gap-3 transition-all shadow-xl hover:shadow-green-900/40 active:scale-95"
