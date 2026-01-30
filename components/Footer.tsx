@@ -42,7 +42,7 @@ const Footer: React.FC = () => {
                   <div className="bg-green-50 p-2 rounded-lg">
                     <MessageCircle className="w-4 h-4 text-green-500" />
                   </div>
-                  <a href="https://w.app/lg6k74" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 font-medium">Falar no WhatsApp</a>
+                  <a href="https://wa.me/5521966095786?text=Gostaria%20de%20fazer%20uma%20consulta" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 font-medium">Falar no WhatsApp</a>
                 </li>
                 <li className="flex items-center gap-3">
                   <div className="bg-blue-50 p-2 rounded-lg">
